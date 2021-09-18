@@ -1,4 +1,4 @@
-package one.digitalinnovation.citiesapi.entity;
+package one.digitalinnovation.citiesapi.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
