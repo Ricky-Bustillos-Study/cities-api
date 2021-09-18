@@ -2,7 +2,7 @@ package one.digitalinnovation.citiesapi.controllers;
 
 import lombok.AllArgsConstructor;
 import one.digitalinnovation.citiesapi.services.DistanceService;
-import org.swpringframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
